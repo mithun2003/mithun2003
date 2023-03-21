@@ -18,9 +18,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mithun2003&show_icons=true&locale=en&layout=compact" alt="mithun2003" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mithun2003&show_icons=true&locale=en" alt="mithun2003" /></p>
-### My Stats: 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mithun2003&theme=github-dark-blue&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
+<!-- ### My Stats: 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mithun2003&theme=github-dark-blue&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+ -->
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mithun2003" alt="mithun2003" /></a> </p>
