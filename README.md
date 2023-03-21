@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mithun Thomas</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-- 👨‍💻My project [www.cartifi.shop](cartifi.shop)
+- 👨‍💻My project [E-Commerce Website](https://www.cartifi.shop)
+
 
 - 📫 How to reach me **mithuncy65@gmail.com**
 
