@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Mithun Thomas</h1>
+# Hello there 👋, I'm Mithun Thomas
+
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
+<!-- <h1 align="center">Hi 👋, I'm Mithun Thomas</h1> -->
 <h3 align="center">A passionate fullstack developer from India</h3>
 
 - 👨‍💻My project [E-Commerce Website](https://www.cartifi.shop)
@@ -8,9 +11,20 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mithunthomas3897" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mithunthomas3897" height="30" width="40" /></a>
+<!-- <a href="https://linkedin.com/in/mithunthomas3897" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mithunthomas3897" height="30" width="40" /></a>
 <a href="https://instagram.com/_mithun_thomas____" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_mithun_thomas____" height="30" width="40" /></a>
-<a href="https://medium.com/@mithunthomas003" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mithunthomas003" height="30" width="40" /></a>
+<a href="https://medium.com/@mithunthomas003" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mithunthomas003" height="30" width="40" /></a> -->
+<div id="badges">
+  <a href="https://linkedin.com/in/mithunthomas3897" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://instagram.com/_mithun_thomas____" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="https://medium.com/@mithunthomas003" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-grey?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
+  </a>
+</div>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
