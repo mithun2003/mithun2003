@@ -1,4 +1,4 @@
-# Hello there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="27" height="27" />, I'm Mithun Thomas
+# Hello there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" />, I'm Mithun Thomas
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 <!-- <h1 align="center">Hi 👋, I'm Mithun Thomas</h1> -->
