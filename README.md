@@ -27,48 +27,47 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<a href="https://www.python.org" rel="noopener">![Python](https://img.shields.io/badge/Python-14354C?&logo=python&logoColor=white)</a>
-<a href="https://www.python.org" rel="noopener">![FastAPI](https://img.shields.io/badge/FastAPI-005571?&logo=fastapi)</a>
-<a href="https://angular.io" rel="noopener">![Angular](https://img.shields.io/badge/AngularJS-E23237?&logo=angularjs&logoColor=white)</a>
-<a href="https://angular.io" rel="noopener">![Angular](https://img.shields.io/badge/Angular-DD0031?&logo=angular&logoColor=white)</a>
-<a href="https://reactjs.org" rel="noopener">![React](https://img.shields.io/badge/React-20232A?&logo=react&logoColor=61DAFB)</a>
-<a href="https://reactjs.org" rel="noopener">![Redux](https://img.shields.io/badge/Redux-593D88?&logo=redux&logoColor=white)</a>
-<a href="https://reactjs.org" rel="noopener">![React Router](https://img.shields.io/badge/React_Router-CA4245?&logo=react-router&logoColor=white)</a>
-<a href="https://www.djangoproject.com" rel="noopener">![Django](https://img.shields.io/badge/Django-092E20?&logo=django&logoColor=white)</a>
-<a href="https://getbootstrap.com" rel="noopener">![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?&logo=bootstrap&logoColor=white)</a>
-<a href="https://getbootstrap.com" rel="noopener">![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?&logo=material-ui&logoColor=white)</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="noopener">![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?&logo=javascript&logoColor=black)</a>
-<a href="https://www.typescriptlang.org" rel="noopener">![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?&logo=typescript&logoColor=white)</a>
-<a href="https://www.typescriptlang.org" rel="noopener">![HTML](https://img.shields.io/badge/HTML5-E34F26?&logo=html5&logoColor=white)</a>
-<a href="https://www.typescriptlang.org" rel="noopener">![CSS](https://img.shields.io/badge/CSS3-1572B6?&logo=css3&logoColor=white)</a>
-<a href="https://www.typescriptlang.org" rel="noopener">![SASS](https://img.shields.io/badge/Sass-CC6699?&logo=sass&logoColor=white)</a>
-<a href="https://www.typescriptlang.org" rel="noopener">![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?&logo=tailwind-css&logoColor=white)</a>
-<a href="https://www.typescriptlang.org" rel="noopener">![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?&logo=mongodb&logoColor=white)</a>
-<a href="https://www.typescriptlang.org" rel="noopener">![SQLite](https://img.shields.io/badge/SQLite-07405E?&logo=sqlite&logoColor=white)</a>
-<a href="https://www.typescriptlang.org" rel="noopener">![PostgresSQL](https://img.shields.io/badge/PostgreSQL-316192?&logo=postgresql&logoColor=white)</a>
-<a href="https://www.typescriptlang.org" rel="noopener">![Netlify](	https://img.shields.io/badge/Netlify-00C7B7?&logo=netlify&logoColor=white)</a>
-<a href="https://www.typescriptlang.org" rel="noopener">![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?&logo=amazonaws&logoColor=white)</a>
-<a href="https://www.typescriptlang.org" rel="noopener">![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?&logo=amazonaws&logoColor=white)</a>
-<a href="https://www.typescriptlang.org" rel="noopener">![BitBucket](https://img.shields.io/badge/Bitbucket-0747a6?&logo=bitbucket&logoColor=white)</a>
-<a href="https://www.typescriptlang.org" rel="noopener">![JIRA](https://img.shields.io/badge/Jira-0052CC?&logo=Jira&logoColor=white)</a>
-<a href="https://www.typescriptlang.org" rel="noopener">![Jest](https://img.shields.io/badge/Jest-323330?&logo=Jest&logoColor=white)</a>
-<a href="https://www.typescriptlang.org" rel="noopener">![Figma](https://img.shields.io/badge/Figma-F24E1E?&logo=figma&logoColor=white)</a>
-<a href="https://www.typescriptlang.org" rel="noopener">![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?&logo=visual%20studio%20code&logoColor=white)</a>
-<a href="https://www.typescriptlang.org" rel="noopener">![ES Lint](	https://img.shields.io/badge/eslint-3A33D1?&logo=eslint&logoColor=white)</a>
-<a href="https://www.typescriptlang.org" rel="noopener">![Perttier](	https://img.shields.io/badge/prettier-1A2C34?&logo=prettier&logoColor=F7BA3E)</a>
-<a href="https://www.typescriptlang.org" rel="noopener">![SonarLint](https://img.shields.io/badge/SonarLint-CB2029?&logo=sonarlint&logoColor=white)</a>
-<a href="https://www.typescriptlang.org" rel="noopener">![GIT](https://img.shields.io/badge/GIT-E44C30?&logo=git&logoColor=white)</a>
-<a href="https://www.typescriptlang.org" rel="noopener">![Postman](https://img.shields.io/badge/Postman-FF6C37?&logo=postman&logoColor=white)</a>
-<a href="https://www.typescriptlang.org" rel="noopener">![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?&logo=nginx&logoColor=white)</a>
-<a href="https://www.typescriptlang.org" rel="noopener">![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?&logo=gunicorn&logoColor=white)</a>
-
+<a href="https://www.python.org" rel="noopener"><img src="https://img.shields.io/badge/Python-14354C?&logo=python&logoColor=white" alt="Python Badge"/></a>
+<a href="https://www.fastapi.com" rel="noopener"><img src="https://img.shields.io/badge/FastAPI-005571?&logo=fastapi" alt="FastAPI Badge"/></a>
+<a href="https://angular.io" rel="noopener"><img src="https://img.shields.io/badge/AngularJS-E23237?&logo=angularjs&logoColor=white" alt="AngularJS Badge"/></a>
+<a href="https://angular.io" rel="noopener"><img src="https://img.shields.io/badge/Angular-DD0031?&logo=angular&logoColor=white" alt="Angular Badge"/></a>
+<a href="https://reactjs.org" rel="noopener"><img src="https://img.shields.io/badge/React-20232A?&logo=react&logoColor=61DAFB" alt="React Badge"/></a>
+<a href="https://redux.js.org" rel="noopener"><img src="https://img.shields.io/badge/Redux-593D88?&logo=redux&logoColor=white" alt="Redux Badge"/></a>
+<a href="https://reactrouter.com/en/main" rel="noopener"><img src="https://img.shields.io/badge/React_Router-CA4245?&logo=react-router&logoColor=white" alt="React Router Badge"/></a>
+<a href="https://www.djangoproject.com" rel="noopener"><img src="https://img.shields.io/badge/Django-092E20?&logo=django&logoColor=white" alt="Django Badge"/></a>
+<a href="https://getbootstrap.com" rel="noopener"><img src="https://img.shields.io/badge/Bootstrap-563D7C?&logo=bootstrap&logoColor=white" alt="Bootstrap Badge"/></a>
+<a href="https://material-ui.com" rel="noopener"><img src="https://img.shields.io/badge/Material--UI-0081CB?&logo=material-ui&logoColor=white" alt="Material-UI Badge"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="noopener"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?&logo=javascript&logoColor=black" alt="JavaScript Badge"/></a>
+<a href="https://www.typescriptlang.org" rel="noopener"><img src="https://img.shields.io/badge/TypeScript-007ACC?&logo=typescript&logoColor=white" alt="TypeScript Badge"/></a>
+<a href="https://www.w3.org/html/" rel="noopener"><img src="https://img.shields.io/badge/HTML5-E34F26?&logo=html5&logoColor=white" alt="HTML Badge"/></a>
+<a href="https://www.w3.org/Style/CSS/" rel="noopener"><img src="https://img.shields.io/badge/CSS3-1572B6?&logo=css3&logoColor=white" alt="CSS Badge"/></a>
+<a href="https://sass-lang.com/" rel="noopener"><img src="https://img.shields.io/badge/Sass-CC6699?&logo=sass&logoColor=white" alt="SASS Badge"/></a>
+<a href="https://tailwindcss.com/" rel="noopener"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?&logo=tailwind-css&logoColor=white" alt="Tailwind Badge"/></a>
+<a href="https://www.mongodb.com" rel="noopener"><img src="https://img.shields.io/badge/MongoDB-4EA94B?&logo=mongodb&logoColor=white" alt="MongoDB Badge"/></a>
+<a href="https://www.sqlite.org/" rel="noopener"><img src="https://img.shields.io/badge/SQLite-07405E?&logo=sqlite&logoColor=white" alt="SQLite Badge"/></a>
+<a href="https://www.postgresql.org/" rel="noopener"><img src="https://img.shields.io/badge/PostgreSQL-316192?&logo=postgresql&logoColor=white" alt="PostgresSQL Badge"/></a>
+<a href="https://www.netlify.com/" rel="noopener"><img src="https://img.shields.io/badge/Netlify-00C7B7?&logo=netlify&logoColor=white" alt="Netlify Badge"/></a>
+<a href="https://aws.amazon.com/" rel="noopener"><img src="https://img.shields.io/badge/Amazon_AWS-FF9900?&logo=amazonaws&logoColor=white" alt="AWS Badge"/></a>
+<a href="https://bitbucket.org/" rel="noopener"><img src="https://img.shields.io/badge/Bitbucket-0747a6?&logo=bitbucket&logoColor=white" alt="BitBucket Badge"/></a>
+<a href="https://www.atlassian.com/software/jira" rel="noopener"><img src="https://img.shields.io/badge/Jira-0052CC?&logo=Jira&logoColor=white" alt="Jira Badge"/></a>
+<a href="https://jestjs.io/" rel="noopener"><img src="https://img.shields.io/badge/Jest-323330?&logo=Jest&logoColor=white" alt="Jest Badge"/></a>
+<a href="https://www.figma.com/" rel="noopener"><img src="https://img.shields.io/badge/Figma-F24E1E?&logo=figma&logoColor=white" alt="Figma Badge"/></a>
+<a href="https://code.visualstudio.com/" rel="noopener"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?&logo=visual%20studio%20code&logoColor=white" alt="VS Code Badge"/></a>
+<a href="https://eslint.org/" rel="noopener"><img src="https://img.shields.io/badge/eslint-3A33D1?&logo=eslint&logoColor=white" alt="ES Lint Badge"/></a>
+<a href="https://prettier.io/" rel="noopener"><img src="https://img.shields.io/badge/prettier-1A2C34?&logo=prettier&logoColor=F7BA3E" alt="Prettier Badge"/></a>
+<a href="https://www.sonarlint.org/" rel="noopener"><img src="https://img.shields.io/badge/SonarLint-CB2029?&logo=sonarlint&logoColor=white" alt="SonarLint Badge"/></a>
+<a href="https://git-scm.com/" rel="noopener"><img src="https://img.shields.io/badge/GIT-E44C30?&logo=git&logoColor=white" alt="GIT Badge"/></a>
+<a href="https://www.postman.com/" rel="noopener"><img src="https://img.shields.io/badge/Postman-FF6C37?&logo=postman&logoColor=white" alt="Postman Badge"/></a>
+<a href="https://www.nginx.com/" rel="noopener"><img src="https://img.shields.io/badge/Nginx-%23009639.svg?&logo=nginx&logoColor=white" alt="Nginx Badge"/></a>
+<a href="https://gunicorn.org/" rel="noopener"><img src="https://img.shields.io/badge/gunicorn-%298729.svg?&logo=gunicorn&logoColor=white" alt="Gunicorn Badge"/></a>
 
 <h3 align="left">OS:</h3>
 
-<a href="https://www.typescriptlang.org" rel="noopener">![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?&logo=kali-linux&logoColor=white)</a>
-<a href="https://www.typescriptlang.org" rel="noopener">![Linux](https://img.shields.io/badge/Linux-FCC624?&logo=linux&logoColor=black)</a>
-<a href="https://www.typescriptlang.org" rel="noopener">![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?&logo=ubuntu&logoColor=white)</a>
-<a href="https://www.typescriptlang.org" rel="noopener">![Windows](	https://img.shields.io/badge/Windows-0078D6?&logo=windows&logoColor=white)</a>
+<a href="https://www.kali.org/" rel="noopener"><img src="https://img.shields.io/badge/Kali_Linux-557C94?&logo=kali-linux&logoColor=white" alt="Kali Linux Badge"/></a>
+<a href="https://www.linux.org/" rel="noopener"><img src="https://img.shields.io/badge/Linux-FCC624?&logo=linux&logoColor=black" alt="Linux Badge"/></a>
+<a href="https://ubuntu.com/" rel="noopener"><img src="https://img.shields.io/badge/Ubuntu-E95420?&logo=ubuntu&logoColor=white" alt="Ubuntu Badge"/></a>
+<a href="https://www.microsoft.com/en-us/windows" rel="noopener"><img src="https://img.shields.io/badge/Windows-0078D6?&logo=windows&logoColor=white" alt="Windows Badge"/></a>
+
 
 
 
