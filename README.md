@@ -14,7 +14,7 @@
 <div id="badges">
   <a href="https://linkedin.com/in/mithunthomas3897"><img src="https://img.shields.io/badge/LinkedIn-blue?&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
   <a href="https://instagram.com/_mithun_thomas____"><img src="https://img.shields.io/badge/Instagram-E4405F?&logo=instagram&logoColor=white" alt="Instagram Badge"/></a>
-  <a href="[https://medium.com/@mithunthomas003](https://mithun003.medium.com/)"><img src="https://img.shields.io/badge/Medium-12100E?&logo=medium&logoColor=white" alt="Medium Badge"/></a>
+  <a href="https://mithun003.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?&logo=medium&logoColor=white" alt="Medium Badge"/></a>
   <a href="mailto:mithunthomas003@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?&logo=gmail&logoColor=white" alt="Email Badge"/></a>
   <a href="https://wa.me/919895493897"><img src="https://img.shields.io/badge/WhatsApp-25D366?&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/></a>
 </div>
