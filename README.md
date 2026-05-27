@@ -40,7 +40,7 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mithunthomas.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8Y2lyY2xlIGN4PSIxNiIgY3k9IjE2IiByPSIxNiIgZmlsbD0iIzBBMEEwQSIvPgogIDx0ZXh0IHg9IjE2IiB5PSIyMSIgZm9udC1mYW1pbHk9IkFyaWFsIiBmb250LXdlaWdodD0iYm9sZCIgZm9udC1zaXplPSIxMiIgZmlsbD0iI0ZGRkZGRiIgdGV4dC1hbmNob3I9Im1pZGRsZSI+TVQ8L3RleHQ+Cjwvc3ZnPg==)](https://mithunthomas.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mithun2003)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mithunthomas3897)
 [![Medium](https://img.shields.io/badge/Medium-%2312100E?style=for-the-badge&logo=medium&logoColor=white)](https://mithun003.medium.com/)
