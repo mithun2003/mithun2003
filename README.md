@@ -150,17 +150,70 @@
 ---
 
 ### 📦 Featured Repositories
-
+ 
 <div align="center">
-
-[![gamma-ai-watermark-remover](https://github-readme-stats.vercel.app/api/pin/?username=mithun2003&repo=gamma-ai-watermark-remover&theme=tokyonight&hide_border=true&show_owner=true)](https://github.com/mithun2003/gamma-ai-watermark-remover)
-&nbsp;&nbsp;
-[![E-Learning-Backend](https://github-readme-stats.vercel.app/api/pin/?username=mithun2003&repo=E-Learning-Backend&theme=tokyonight&hide_border=true&show_owner=true)](https://github.com/mithun2003/E-Learning-Backend)
-
-[![E-Learning](https://github-readme-stats.vercel.app/api/pin/?username=mithun2003&repo=E-Learning&theme=tokyonight&hide_border=true&show_owner=true)](https://github.com/mithun2003/E-Learning)
-&nbsp;&nbsp;
-[![E-Shop](https://github-readme-stats.vercel.app/api/pin/?username=mithun2003&repo=E-Shop&theme=tokyonight&hide_border=true&show_owner=true)](https://github.com/mithun2003/E-Shop)
-
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/mithun2003/gamma-ai-watermark-remover">
+        <div>
+          <h4>📦 gamma-ai-watermark-remover</h4>
+          <p>Remove those Gamma AI watermarks from PDFs effortlessly.</p>
+          <p>
+            <img src="https://img.shields.io/github/stars/mithun2003/gamma-ai-watermark-remover?style=flat-square&logo=github&color=yellow" />
+            <img src="https://img.shields.io/github/forks/mithun2003/gamma-ai-watermark-remover?style=flat-square&logo=github&color=blue" />
+            <img src="https://img.shields.io/github/languages/top/mithun2003/gamma-ai-watermark-remover?style=flat-square" />
+            <img src="https://img.shields.io/github/last-commit/mithun2003/gamma-ai-watermark-remover?style=flat-square&color=green" />
+          </p>
+        </div>
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/mithun2003/E-Learning-Backend">
+        <div>
+          <h4>📦 E-Learning-Backend</h4>
+          <p>Scalable backend API powering a full e-learning platform.</p>
+          <p>
+            <img src="https://img.shields.io/github/stars/mithun2003/E-Learning-Backend?style=flat-square&logo=github&color=yellow" />
+            <img src="https://img.shields.io/github/forks/mithun2003/E-Learning-Backend?style=flat-square&logo=github&color=blue" />
+            <img src="https://img.shields.io/github/languages/top/mithun2003/E-Learning-Backend?style=flat-square" />
+            <img src="https://img.shields.io/github/last-commit/mithun2003/E-Learning-Backend?style=flat-square&color=green" />
+          </p>
+        </div>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/mithun2003/E-Learning">
+        <div>
+          <h4>📦 E-Learning</h4>
+          <p>Frontend for a full-featured online learning platform.</p>
+          <p>
+            <img src="https://img.shields.io/github/stars/mithun2003/E-Learning?style=flat-square&logo=github&color=yellow" />
+            <img src="https://img.shields.io/github/forks/mithun2003/E-Learning?style=flat-square&logo=github&color=blue" />
+            <img src="https://img.shields.io/github/languages/top/mithun2003/E-Learning?style=flat-square" />
+            <img src="https://img.shields.io/github/last-commit/mithun2003/E-Learning?style=flat-square&color=green" />
+          </p>
+        </div>
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/mithun2003/E-Shop">
+        <div>
+          <h4>📦 E-Shop</h4>
+          <p>E-commerce storefront with cart, auth, and product management.</p>
+          <p>
+            <img src="https://img.shields.io/github/stars/mithun2003/E-Shop?style=flat-square&logo=github&color=yellow" />
+            <img src="https://img.shields.io/github/forks/mithun2003/E-Shop?style=flat-square&logo=github&color=blue" />
+            <img src="https://img.shields.io/github/languages/top/mithun2003/E-Shop?style=flat-square" />
+            <img src="https://img.shields.io/github/last-commit/mithun2003/E-Shop?style=flat-square&color=green" />
+          </p>
+        </div>
+      </a>
+    </td>
+  </tr>
+</table>
 </div>
 
 ---
@@ -182,11 +235,9 @@
 ---
 
 ### 🏆 GitHub Trophies
-
+ 
 <div align="center">
-
 <img src="https://github-profile-trophy.vercel.app/?username=mithun2003&theme=tokyonight&no-frame=true&margin-w=12&margin-h=12&column=4&row=2" />
-
 </div>
 
 ---
